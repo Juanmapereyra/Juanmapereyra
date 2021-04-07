@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me 👋
+My name is Juanma Pereyra, i´m a systems engineering student. I live in the city of Cordoba capital, Argentina. I am passionate about web design and development.
+I have strong values about empathy, communication and synergy that helps to grow both oneself and others. My goal is to achieve authentic professional growth to help complement the development of my life. 
 
 <!--
 **Juanmapereyra/Juanmapereyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
