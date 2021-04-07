@@ -1,6 +1,6 @@
 
 
-![lesly-juarez-DFtjXYd5Pto-unsplash](https://user-images.githubusercontent.com/82005206/113924102-c7b4e180-97bf-11eb-9c5e-b13225b93b69.jpg)
+![lesly-juarez-DFtjXYd5Pto-unsplash](https://user-images.githubusercontent.com/82005206/113925214-23339f00-97c1-11eb-9a7d-f9f351683918.jpg)
 ### About me 👋
 
 My name is Juanma Pereyra, i´m a systems engineering student. I live in the city of Córdoba, Argentina. I am passionate about web design and development. I work with different technologies, although my strength is in the frontend with react.js, backend with node.js and layout and implementation with AdobeXD and Figma. I have strong knowledge in agile methodologies (Scrum and Kanban) which I was able to put into practice during my work experience.
