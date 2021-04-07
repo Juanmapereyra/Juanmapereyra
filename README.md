@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... Different complements and libraries of react, React Native, improve design techniques, angular with .net, others..
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... prosperous project.
 
-- 🤔 I’m looking for help with ... finding a job
+- 🤔 I’m looking for help with ... finding a job.
 
-- 💬 Ask me about ... Anything, I'm an open book.
+- 💬 Ask me about ... Anything, I'm an open book. :)
 
 - 📫 How to reach me: ... through my LinkedIn (https://www.linkedin.com/in/juanmapereyra92/) you can send me a message and i'll be happy to answer you.
 
