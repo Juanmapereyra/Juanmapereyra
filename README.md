@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ... Anything, I'm an open book. :)
 
-- 📫 How to reach me: ... through my LinkedIn (https://www.linkedin.com/in/juanmapereyra92/) you can send me a message and i'll be happy to answer you.
+- 📫 How to reach me: ... through [my LinkedIn](https://www.linkedin.com/in/juanmapereyra92/) you can send me a message and i'll be happy to answer you.
 
 - ⚡ Fun fact: ... “I made a prosperous voyage when I suffered shipwreck.” - Zeno
 
