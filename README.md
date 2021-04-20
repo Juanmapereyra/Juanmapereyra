@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... React.js, Node.js, AdobeXD, Figma.
 
-- 🌱 I’m currently learning ... Different complements and libraries of react, React Native, improve design techniques, angular with .net, others..
+- 🌱 I’m currently learning ... React Native, improve design techniques, improve Node.js skills, angular with .net, others..
 
 - 👯 I’m looking to collaborate on ... prosperous project.
 
