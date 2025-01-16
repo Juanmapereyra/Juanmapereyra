@@ -3,19 +3,17 @@
 ![lesly-juarez-DFtjXYd5Pto-unsplash](https://user-images.githubusercontent.com/82005206/113925214-23339f00-97c1-11eb-9a7d-f9f351683918.jpg)
 ### About me 👋
 
-My name is Juanma Pereyra, i´m a systems engineering student living in the city of Córdoba, Argentina. I am passionate about web design and development. I work with different technologies, although my strength is in the frontend with react.js, backend with node.js and layout and implementation with AdobeXD and Figma. I have strong knowledge in agile methodologies (Scrum and Kanban) which I was able to put into practice during my work experience.
+My name is Juanma Pereyra, i´m a systems engineering student living in Switzerland. I am passionate about technology and more precise programming. I work with different technologies, although my strength is in Python, also with experience in frontend with react.js, backend with node.js and layout and implementation with AdobeXD and Figma. I have strong knowledge in agile methodologies (Scrum and Kanban) which I was able to put into practice during my work experience.
 I have strong values about empathy, communication and synergy that helps to grow both oneself and others. My goal is to achieve authentic professional growth to help complement the development of my life. 
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... React.js, Node.js, AdobeXD, Figma.
+- 🔭 I’m currently working on ... Python, React.js, Node.js, Figma.
 
-- 🌱 I’m currently learning ... React Native, improve design techniques, improve Node.js skills, angular with .net, others..
+- 🌱 I’m currently learning ... Django, React Native, improve design techniques, improve Node.js skills, angular with .net, others..
 
 - 👯 I’m looking to collaborate on ... prosperous project.
-
-- 🤔 I’m looking for help with ... finding a job.
 
 - 💬 Ask me about ... Anything, I'm an open book. :)
 
